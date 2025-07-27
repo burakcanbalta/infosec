@@ -121,25 +121,3 @@ python info.py "http://target.com/view.php?item=3" --silent --delay 2
   }
 }
 ```
-
----
-
-## ⚠️ Legal Disclaimer
-
-This tool is for **educational and authorized testing purposes only**. Do not use it on websites or systems you do not own or have permission to test. Misuse may be illegal. The author is not responsible for any misuse or damage caused.
-
----
-
-## 👨‍💻 Author & Contributions
-
-Developed by a cybersecurity enthusiast passionate about web exploitation and automation.
-
-Suggestions and contributions are welcome. Future versions may include:
-
-- GUI interface
-- SQLMap integration
-- Active fingerprinting support
-- CVE-based detection modules
-
-Hack responsibly. 🛡️
-
